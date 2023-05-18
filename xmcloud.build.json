@@ -24,7 +24,24 @@
           },
           "reindex": {
             "indexNames": []
+          },
+          "publish": {
+            "path": "/sitecore",
+            "languages": [
+              "en"              
+            ],
+            "itemIds": [],
+            "targets": ["Edge"],
+            "republish": false
           }
         }
-    }
+    },
+    "deployItems": {
+      "modules": [                
+        "Project.*"
+      ]
+    },
+    "buildTargets": [      
+      "./src/platform/Platform.csproj"
+    ]
 }

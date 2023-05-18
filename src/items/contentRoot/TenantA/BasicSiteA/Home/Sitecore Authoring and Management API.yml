@@ -1,0 +1,37 @@
+﻿---
+ID: "b58e0f5d-aa63-43ca-854c-ee3b9051a028"
+Parent: "2acbcf55-5153-429b-87fe-4627eb43148b"
+Template: "ef7f923a-0204-4d5b-9834-9057456299b4"
+Path: /sitecore/content/TenantA/BasicSiteA/Home/Sitecore Authoring and Management API
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T101833Z
+    - ID: "3457447a-86c1-4f8f-9c7e-b8eaa79a02f4"
+      Hint: Title
+      Value: Welcome to Sitecore Title
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\BaqoDcTwIL
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\BaqoDcTwIL
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a2e2f7c-a507-4e1a-b8ae-5db486931c7c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\BaqoDcTwIL
+    - ID: "d7d8f8e8-a822-4de4-af47-d55a7538e4a9"
+      Hint: Description
+      Value: Welcome to Sitecore Description
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T101833Z

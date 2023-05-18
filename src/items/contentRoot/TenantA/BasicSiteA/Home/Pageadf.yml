@@ -1,0 +1,34 @@
+﻿---
+ID: "b6e891cf-171b-4c53-b45b-d56be0504c24"
+Parent: "2acbcf55-5153-429b-87fe-4627eb43148b"
+Template: "fb64e4db-14f4-408e-9eb8-a08bb9b58b6b"
+Path: /sitecore/content/TenantA/BasicSiteA/Home/Pageadf
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A7780270-0F11-466E-8463-B0ECB9380A9F}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T090125Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Pageadf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4aa45a40-54c6-4354-ae6c-50680b89a2c0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "d6f0aa65-b22d-4a89-a4ab-22e9a027c393"
+      Hint: Title
+      Value: Pageadf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230517T090128Z
