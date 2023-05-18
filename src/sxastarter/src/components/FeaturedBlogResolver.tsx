@@ -41,7 +41,7 @@ export const Default = (props: PromoProps): JSX.Element => {
   console.log(props);
   if (props.fields) {
     return (
-      <div className="row component testing">
+      <div className="row component testing-comp">
         <h1>
           <Text className="" field={props.fields.Heading} />
         </h1>
