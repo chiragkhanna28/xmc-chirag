@@ -1,0 +1,38 @@
+﻿---
+ID: "5f0abdc6-fde6-4080-bfd8-8161a104855b"
+Parent: "af4822a4-2b7e-4b79-ab61-7a03857feb51"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/TenantA/BasicSiteA/Presentation/Available Renderings/Bootcamp
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {C27B4C2A-E4ED-4277-BF1C-E90A9C12BCC5}
+    {4E8EEBC1-AD80-4DB2-B717-FADFD80CFFF6}
+    {CAD6EC0D-B8EA-4523-A10F-6D05569DCBBF}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230515T121015Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90dccfd1-abab-49d3-98eb-a8a66a7d420e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T103820Z

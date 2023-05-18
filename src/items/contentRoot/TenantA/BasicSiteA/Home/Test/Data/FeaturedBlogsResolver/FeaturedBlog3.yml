@@ -1,0 +1,45 @@
+﻿---
+ID: "0f7adf8b-1825-47fe-92b0-122a22cbb778"
+Parent: "adf2bd1b-2c0a-4cf6-b063-2509645be32d"
+Template: "5641b782-7841-4b88-9583-8f34789bde6b"
+Path: /sitecore/content/TenantA/BasicSiteA/Home/Test/Data/FeaturedBlogsResolver/FeaturedBlog3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001fcff0-28ab-41e1-b2ec-2a64696252c0"
+      Hint: Image
+      Value: |
+        <image mediaid="{DDE180B0-C8B3-4A50-B0CD-F6A392C2C950}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230516T055958Z
+    - ID: "33305a51-634a-4312-89e9-d9f1cc14cc9f"
+      Hint: Description
+      Value: This is a blog 3 description
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "888ce35b-af86-4abd-acee-d85bcb06184d"
+    - ID: "9859b539-b667-4cbd-b118-f57d7096f5c7"
+      Hint: Title
+      Value: This is a blog 3
+    - ID: "acf9f51b-42fa-48e3-91b5-c0b8eab7c302"
+      Hint: Link
+      Value: |
+        <link text="Blog3" linktype="external" url="https://www.google.com/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T140715Z

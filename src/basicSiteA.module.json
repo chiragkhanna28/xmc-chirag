@@ -1,0 +1,58 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Project.BasicSiteA",
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/TenantA",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            },
+            {
+                "name": "contentRoot",
+                "path": "/sitecore/content/TenantA",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/Project/TenantA",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/TenantA",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/TenantA",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            },
+            {
+                "name": "renderingsbootcamp",
+                "path": "/sitecore/layout/Renderings/Feature/Bootcamp",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            },
+            {
+                "name": "modulesettings",
+                "path": "/sitecore/system/Settings/Feature/Bootcamp",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            },
+            {
+                "name": "templatesbootcamp",
+                "path": "/sitecore/templates/Feature/Bootcamp",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            },
+            {
+                "name": "resolver",
+                "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Featured Blog Resolver",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            },
+            {
+                "name": "webhooks",
+                "path": "/sitecore/system/Webhooks",
+                "allowedPushOperations" : "CreateUpdateAndDelete"
+            }
+        ]
+    }
+}

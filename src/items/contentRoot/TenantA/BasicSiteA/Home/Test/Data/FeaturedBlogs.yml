@@ -1,0 +1,40 @@
+﻿---
+ID: "9cfa0a97-93e7-4d64-837e-3c60ce8cc22a"
+Parent: "ffd38d06-8bdc-4c48-9c4a-9431f80f5db9"
+Template: "c66d0b6e-f39b-44db-833b-94d0df8aa78c"
+Path: /sitecore/content/TenantA/BasicSiteA/Home/Test/Data/FeaturedBlogs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230516T055748Z
+    - ID: "44ee919e-a13a-4ce5-a9f4-f334c82c9c11"
+      Hint: Featured Blogs
+      Value: |
+        {30488DF1-A9BF-4718-8DEE-51C8088EB77F}
+        {5A51AE82-65E8-45CE-B5A5-39A672618B53}
+        {85C3DB26-120E-4A18-839B-79544ACB484C}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "8026da17-e24e-43c2-b9ea-62d94828994c"
+      Hint: Heading
+      Value: Coming from Graph QL
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2aa3da4b-64ed-4bbc-bbef-f2fabb90cae6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ckhanna@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T105207Z
